@@ -6,7 +6,7 @@
 <br>2. Download the file as zip
 <br>3. Extract files
 <br>4. Run "SpectroChat.exe" (wait for some moments)
-<br>5. Follow instructions
+<br>5. Follow instructions (refer to : https://github.com/SpectroChat/GUI/blob/master/Instructions.pdf for full instructions)
 <br>6. For full range analysis just click the run button and show button with the default settings after preprocessing selection
 <br>7. Generated plots can be edited and saved in diffterent formats
 <br>8. Users can refer to instructions bt pressing the "INSTRUCTION" button on the top left corner
