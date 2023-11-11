@@ -8,7 +8,7 @@
 <br>4. Run "SpectroChat.exe" (wait for some moments)
 <br>5. Follow instructions (refer to: https://github.com/SpectroChat/GUI/blob/master/Instructions.pdf for full instructions)
 <br>6. A video tutorial can also be found in GitHub (https://github.com/SpectroChat/GUI/blob/master/SpectroChat%20Video%20Tutorial.mp4)
-<br>7. Follow the guidelines for column names of input files. Unsuccessful data loading or input parameters will halt the execution of the software.
+<br>7. Follow the guidelines for column names of input files. Unsuccessful data loading or invalid input parameters will halt the execution of the software.
 <br>8. For full range analysis, just click the run button and show button with the default settings after preprocessing selection
 <br>9. Generated plots can be edited and saved in different formats
 <br>10. Users can refer to instructions by pressing the "INSTRUCTION" button on the top left corner
