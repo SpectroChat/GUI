@@ -2,7 +2,7 @@
 <br>** Wait for few moments for the initial execution of the application **
 
 <br>SpectroChat downloading and execution procedure:
-<br>1. Go to https://github.com/SpectroChat/GUI/tree/master (Alternative google drive link: <a href="https://drive.google.com/file/d/18dtl88GKNbTREOTLJUvKYbSceATTmr-z/view?usp=sharing">SpectroChat GD Link </a>)
+<br>1. Go to https://github.com/SpectroChat/GUI/tree/master (Alternative google drive link: <a href="https://drive.google.com/file/d/1H4G0DFwSOp-P6PGywRFlxMgk6evpO30n/view?usp=drive_link">SpectroChat GD Link </a>)
 <br>2. Download the file as zip
 <br>3. Extract files
 <br>4. Run "SpectroChat.exe" (wait for some moments)
