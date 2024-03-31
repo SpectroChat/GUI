@@ -1,4 +1,4 @@
-# SpectroChat: A ChatGPT assisted graphical user interface for chemometrics analysis of spectroscopic data![logo](https://user-images.githubusercontent.com/128515711/226697817-fc07112d-f217-4442-aab6-59f87c80c5e8.JPG)
+# SpectroChat: A windows executable graphical user interface for chemometrics analysis of spectroscopic data![logo](https://user-images.githubusercontent.com/128515711/226697817-fc07112d-f217-4442-aab6-59f87c80c5e8.JPG)
 <br>** Wait for few moments for the initial execution of the application **
 
 <br>SpectroChat downloading and execution procedure:
