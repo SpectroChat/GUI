@@ -2,12 +2,12 @@
 <br>** Wait for few moments for the initial execution of the application **
 
 <br>SpectroChat downloading and execution procedure:
-<br>1. Go to https://github.com/SpectroChat/GUI/tree/master (Alternative google drive link: <a href="https://drive.google.com/file/d/1hlAGR7dhNW1v6l4d9OSfrxORsWC7KPKH/view?usp=sharing">SpectroChat GD Link </a>)
+<br>1. Go to [https://github.com/SpectroChat/GUI/tree/master](https://github.com/SpectroChat/GUI) (Alternative google drive link: <a href="https://drive.google.com/file/d/1hlAGR7dhNW1v6l4d9OSfrxORsWC7KPKH/view?usp=sharing">SpectroChat GD Link </a>)
 <br>2. Download the file as zip
 <br>3. Extract files
 <br>4. Run "SpectroChat.exe" (wait for some moments)
-<br>5. Follow instructions (refer to: https://github.com/SpectroChat/GUI/blob/master/Instructions.pdf for full instructions)
-<br>6. A video tutorial can also be found in GitHub (https://github.com/SpectroChat/GUI/blob/master/SpectroChat%20Video%20Tutorial.mp4)
+<br>5. Follow instructions (refer to: [https://github.com/SpectroChat/GUI/blob/master/Instructions.pdf](https://github.com/SpectroChat/GUI/blob/main/Instructions.pdf) for full instructions)
+<br>6. A video tutorial can also be found in GitHub ([https://github.com/SpectroChat/GUI/blob/master/SpectroChat%20Video%20Tutorial.mp4](https://github.com/SpectroChat/GUI/blob/main/SpectroChat%20Video%20Tutorial.mp4))
 <br>7. Follow the guidelines for column names of input files. Unsuccessful data loading or invalid input parameters will halt the execution of the software.
 <br>8. For full range analysis, just click the run button and show button with the default settings after preprocessing selection
 <br>9. Generated plots can be edited and saved in different formats
